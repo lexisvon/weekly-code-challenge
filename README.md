@@ -23,26 +23,25 @@ Build a fluid user experience each week focusing on Javascript and the design pr
 
 ## Sunday:
 
-    * Pick a design and begin mapping out details to develop. 
-    * Add Credit for the designer.
-    * Collect assets and swap out anything that's not available.
-    * Create a repository on Github to store project. 
-    * Write out a journal file to be stored in the repository.
-    * Make the first push. 
+    - Pick a design and begin mapping out details to develop. 
+    - Add Credit for the designer.
+    - Collect assets and swap out anything that's not available.
+    - Create a repository on Github to store project. 
+    - Write out a journal file to be stored in the repository.
+    - Make the first push. 
 
 ## Monday - Friday:
 
-	* Build out the structure.
-    * Remember to use semantic HTML.
-    * Code, Code, Code. 
-    * AutoPrefix.
-    * Use new techniques.
-    * Push yourself to work 45min every night. 
+	- Build out the structure.
+    - Remember to use semantic HTML.
+    - Code, Code, Code. 
+    - AutoPrefix.
+    - Use new techniques.
+    - Push yourself to work 45min every night. 
 
 ## Saturday:
-    * Wrap up last minute details. 
-    * Make live on Github Site. 
-    * Create a post to share on Instagram and Twitter.
-    * Update Readme.
+    - Wrap up last minute details. 
+    - Make live on Github Site. 
+    - Create a post to share on Instagram and Twitter.
+    - Update Readme.
 
-   
