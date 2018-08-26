@@ -17,7 +17,7 @@ Build a fluid user experience each week focusing on Javascript and the design pr
 
 * Operating System: Mac OS
 * Tools: Terminal, Github, Sublime Text, Figma/Sketch
-* Inspiration: Dribbble 
+* Inspiration: Dribbble, Unsplash
 
 ### Weekly Schedule
 
